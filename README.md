@@ -1,4 +1,4 @@
-# 3DCG-for-Anime
+# 3DCG-for-Anime-Characters
 This is a repository for anything relating to creating, using, and working with anime-styled computer graphics.
 
 ## Contributing
